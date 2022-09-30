@@ -1,0 +1,9 @@
+D:\VS-RMS\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+D:\VS-RMS\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+D:\VS-RMS\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+D:\VS-RMS\tictactoe\tictactoe\obj\Debug\tictactoe.csprojResolveAssemblyReference.cache
+D:\VS-RMS\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\VS-RMS\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
+D:\VS-RMS\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+D:\VS-RMS\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+D:\VS-RMS\tictactoe\tictactoe\obj\Debug\tictactoe.TicTacToe.resources
